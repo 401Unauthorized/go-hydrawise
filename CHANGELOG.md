@@ -7,7 +7,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 ### Added
  
 ### Fixed
-- go.mod file was using a local path for the module instead of a github path.
+- The go.mod file previously referenced a local module path instead of the GitHub repository path.
 
 ### Deprecated
 
